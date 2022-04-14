@@ -118,7 +118,7 @@ textarea{
     cursor: pointer;
 }
 
-@media(max-width: 400px){
+@media(max-width: 350px){
     .grupo{
         display: flex;
         flex-direction: column;
